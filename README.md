@@ -1,4 +1,4 @@
-### Hi there 👋
+## 这里没啥好康的👋
 
 <!--
 **RafuiiChan/RafuiiChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
