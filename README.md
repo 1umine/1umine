@@ -1,5 +1,5 @@
 ## ✨ Hi！ Here is something about me. Right is Clara, very cute 🤤.
-<img align='right' src='./images/wife.jpg' width='270px' alt="wife's picture by twitter@Deyui">
+<img align='right' src='./images/wife.jpg' width='270px' alt="wife's picture">
 <!--画师推特名 Deyui，画的很可爱-->
 
 ![1umine's GitHub stats](https://github-readme-stats.vercel.app/api?username=1umine&show_icons=true&theme=tokyonight)
