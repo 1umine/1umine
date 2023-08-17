@@ -2,10 +2,9 @@
 <img align='right' src='./images/wife.jpg' width='270px' alt="wife's picture">
 <!--画师推特名 Deyui，画的很可爱-->
 
-![1umine's GitHub stats](https://github-readme-stats.vercel.app/api?username=1umine&show_icons=true&theme=tokyonight)
+[![1umine's GitHub stats](https://github-readme-stats.bakamelon.vercel.app/api?username=1umine)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1umine&layout=compact)](https://github.com/1umine/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.bakamelon.vercel.app/api/top-langs/?username=1umine)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitor Count](https://profile-counter.glitch.me/1umine/count.svg)
 
