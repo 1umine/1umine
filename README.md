@@ -8,4 +8,4 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/1umine/count.svg)
 
-✨ **Let's just end the profile here.** ✨
+✨ **OK, bye~** ✨
