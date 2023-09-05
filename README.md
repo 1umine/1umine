@@ -8,6 +8,4 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/1umine/count.svg)
 
-I'm so lazy that I don't know what to say, I'm going to play the Genshin Imapct. 
-
 ✨ **Let's just end the profile here.** ✨
