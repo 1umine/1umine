@@ -1,4 +1,4 @@
-## ✨ Hi！ Here is something about me. Right is Clara, very cute 🤤.
+## ✨ Hi！✨ 不知道在这放点什么，随便放点东西好了
 <img align='right' src='./images/wife.jpg' width='25%' alt="wife's picture">
 <!--画师推特名 Deyui，画的很可爱-->
 
@@ -8,4 +8,4 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/1umine/count.svg)
 
-✨ **OK, bye~** ✨
+
